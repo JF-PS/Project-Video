@@ -1,0 +1,232 @@
+exchangeDigitalTimeSheet Save Data
+{
+    "timeTables": [
+        {
+            "duration": 24,
+            "fields": [
+                {
+                    "fieldId": 0,
+                    "tracks": [
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 0
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 1
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 2
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 3
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 4
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 5
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "SYMBOL_NULL_CELL"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 1
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 8
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "SYMBOL_NULL_CELL"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 9
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 16
+                                },
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "SYMBOL_NULL_CELL"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 17
+                                }
+                            ],
+                            "trackNo": 6
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 7
+                        },
+                        {
+                            "frames": [
+                                {
+                                    "data": [
+                                        {
+                                            "id": 0,
+                                            "values": [
+                                                "-2"
+                                            ]
+                                        }
+                                    ],
+                                    "frame": 0
+                                }
+                            ],
+                            "trackNo": 8
+                        }
+                    ]
+                }
+            ],
+            "name": "Episode 1 Scène 8",
+            "timeTableHeaders": [
+                {
+                    "fieldId": 0,
+                    "names": [
+                        "backgroundCiel",
+                        "voiture3",
+                        "voiture2",
+                        "voiture1",
+                        "Camion",
+                        "Panneau",
+                        "Coureure1 (1)",
+                        "voiture1",
+                        "ForgroundTest"
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": 5
+}
